@@ -1,3 +1,4 @@
+this cmd work on windows only......for linux use sudo before pip sample ("sudo pip install mysql-connector")
 install mysql connector cmd type "C:\Users\rafik>python -m pip install mysql-connector".
     ***if mysql connector didn't work properly****
 install protobuf cmd type "C:\Users\rafik>python -m pip install protobuf".
