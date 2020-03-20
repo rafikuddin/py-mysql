@@ -1,0 +1,4 @@
+install mysql connector cmd type "C:\Users\rafik>python -m pip install mysql-connector".
+    ***if mysql connector didn't work properly****
+install protobuf cmd type "C:\Users\rafik>python -m pip install protobuf".
+install dnspython cmd type "C:\Users\rafik>python -m pip install dnspython".
